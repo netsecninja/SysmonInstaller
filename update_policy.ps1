@@ -1,4 +1,5 @@
 # Update Sysmon policy script
+clear-host
 write-host "`n`n`n`n`n`nUpdate Sysmon policy`n"
 
 # Policy

@@ -1,4 +1,5 @@
 # Sysmon installer script
+clear-host
 write-host "`n`n`n`n`n`nSysmon installer`n"
 
 # Download
